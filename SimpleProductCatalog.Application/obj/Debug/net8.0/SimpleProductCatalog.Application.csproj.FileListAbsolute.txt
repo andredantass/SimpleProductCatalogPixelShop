@@ -17,3 +17,22 @@ C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Applicatio
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.dll
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.pdb
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Domain.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Application.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Application.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Application.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Domain.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\bin\Debug\net8.0\SimpleProductCatalog.Domain.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimplePr.FED58ADD.Up2Date
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\refint\SimpleProductCatalog.Application.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\SimpleProductCatalog.Application.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Application\obj\Debug\net8.0\ref\SimpleProductCatalog.Application.dll

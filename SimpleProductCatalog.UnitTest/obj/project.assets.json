@@ -1945,11 +1945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.UnitTest\\SimpleProductCatalog.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.UnitTest\\SimpleProductCatalog.UnitTest.csproj",
       "projectName": "SimpleProductCatalog.UnitTest",
-      "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.UnitTest\\SimpleProductCatalog.UnitTest.csproj",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.UnitTest\\SimpleProductCatalog.UnitTest.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1966,11 +1966,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj": {
-              "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj"
+            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj"
             },
-            "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj": {
-              "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj"
+            "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
         "projectName": "SimpleProductCatalog.Abstraction",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

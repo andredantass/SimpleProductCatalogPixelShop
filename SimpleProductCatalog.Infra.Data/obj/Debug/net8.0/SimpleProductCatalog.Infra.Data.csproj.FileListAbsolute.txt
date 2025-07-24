@@ -17,3 +17,22 @@ C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Infra.Data
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Domain.pdb
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimplePr.3B57F3C1.Up2Date
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Infra.Data.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Domain.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Domain.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimplePr.3B57F3C1.Up2Date
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\refint\SimpleProductCatalog.Infra.Data.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\SimpleProductCatalog.Infra.Data.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Infra.Data\obj\Debug\net8.0\ref\SimpleProductCatalog.Infra.Data.dll

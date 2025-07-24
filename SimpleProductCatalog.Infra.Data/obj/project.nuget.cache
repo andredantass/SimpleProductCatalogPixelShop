@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eepsw3jVt2mkrjPe/1wlk2TXDbktLgf0WNyTvPCGku7NZz3IOO7gGDna/YQjJ+u4zOpbqYgvuTIfz7VhAY0HOA==",
+  "dgSpecHash": "KSS38NIV1YvMfS7iMf6rYD04cCzpb4xN23z/TFx3lu7isguVW6tcJYTpWwvc10IDzd2O19gosQ1iPAg92hr7OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3HIoXv2PauM4lxGICuDPe3aUbK36zRYfPHYQu9sl5OFs7sKD4p0qYMW+iwALsc8LGz+E+WgEpUenNj6QclsZ6w==",
+  "dgSpecHash": "DY4Y2HRVyvtY0DuzHpyUUWqRzUyPcBsbpW0TODzI0yO/NZR8duW4o6f2B1Xnh11hzk5ZJiTHcSYQbhzjBIbZvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",

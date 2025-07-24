@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aM7mMzQGlQ9RcP4ExwjU/tPTKhWn1MfV0GTR4hiMffb43lFh8qcixH3yXLJ2NFvnc2eKeJQESineARFcY4UFTw==",
+  "dgSpecHash": "xbYRNyv3cJ5vHyEIK8nVFRn3Q8NKPpInwoSRT+HPutMmSRoXc9UNMF7JGq+S9HmZn9IWxAmDZckNR1fCfBozsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.UnitTest\\SimpleProductCatalog.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.UnitTest\\SimpleProductCatalog.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

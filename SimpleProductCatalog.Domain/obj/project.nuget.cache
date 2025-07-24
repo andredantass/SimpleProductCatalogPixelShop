@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kz+vmSToq6kLqHdCZ2KkM/5//hBXC+c9w7+JtiWhkpNhU2L01ijlCENT4uCuxIbcyIo+nrkvft4PB8kqFsEPtw==",
+  "dgSpecHash": "pXtJvBr5OKV8jJ42w97RaePo/xCXN3dyCUAJUgtYzjaccL6seCMnPArU5JDPJwVTuMy8R5L3PNU/IjzU+7ilag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",

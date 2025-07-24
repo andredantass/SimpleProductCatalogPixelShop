@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj": {}
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
         "projectName": "SimpleProductCatalog.Abstraction",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj",
         "projectName": "SimpleProductCatalog.Application",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,11 +98,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj"
               },
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj",
         "projectName": "SimpleProductCatalog.Domain",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -171,8 +171,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj"
               }
             }
           }
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj",
         "projectName": "SimpleProductCatalog.Infra.Data",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -235,8 +235,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Domain\\SimpleProductCatalog.Domain.csproj"
               }
             }
           }
@@ -293,14 +293,14 @@
         }
       }
     },
-    "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj",
         "projectName": "SimpleProductCatalog.API",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog\\obj\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -317,14 +317,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Abstraction\\SimpleProductCatalog.Abstraction.csproj"
               },
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Application\\SimpleProductCatalog.Application.csproj"
               },
-              "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj"
+              "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog.Infra.Data\\SimpleProductCatalog.Infra.Data.csproj"
               }
             }
           }

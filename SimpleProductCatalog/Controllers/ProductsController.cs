@@ -72,5 +72,17 @@ namespace SimpleProductCatalog.API.Controllers
                 return BadRequest("Error:  not possible get all products");
             }
         }
+        [HttpGet("GetProductById/{id}")]
+        public async Task<IActionResult> Get([FromServices] IProductServices service, string id)
+        {
+            try
+            {
+                return Ok(await service.GetProductById(id));
+            }
+            catch (Exception e)
+            {
+                return BadRequest("Error:  not possible get all products");
+            }
+        }
     }
 }

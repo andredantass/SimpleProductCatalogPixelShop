@@ -25,5 +25,14 @@ namespace SimpleProductCatalog.Infra.Data.Repository
                 .AsNoTracking()
                 .ToListAsync();
         }
+        public async Task<Product> GetByIdWithCategoryAsync(string id)
+        {
+            return await DbSet
+                .Include(p => p.Category)
+                .AsNoTracking()
+                .Where(p => p.Id == id)
+                .FirstOrDefaultAsync();
+        }
+        
     }
 }

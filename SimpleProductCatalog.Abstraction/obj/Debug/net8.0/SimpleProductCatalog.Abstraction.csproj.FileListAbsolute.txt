@@ -10,3 +10,15 @@ C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Abstractio
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\refint\SimpleProductCatalog.Abstraction.dll
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
 C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\ref\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\refint\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\SimpleProductCatalogPixelShop\SimpleProductCatalog.Abstraction\obj\Debug\net8.0\ref\SimpleProductCatalog.Abstraction.dll

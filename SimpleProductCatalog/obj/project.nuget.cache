@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EgrBZuwBwCCTh2mTpPuAArVLCikE4B0WYhbkWW1+/1P60IeWdKpzHjOsSsSdwgnWgOJDnarH5kIhsKgWWs/1WQ==",
+  "dgSpecHash": "AaF4V3Cq80lUgVrAkiDFHFA0X2m+2IlbjczB118kvLUCNtHNkK5YigLampepmsVnZXsfuVAYEkxarPBF3CQXpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\SimpleProductCatalog\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\SimpleProductCatalogPixelShop\\SimpleProductCatalog\\SimpleProductCatalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

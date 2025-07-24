@@ -306,6 +306,34 @@
 						"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:7190/api/Products/UpdateProduct' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"id\": \"202f5ec4-af6d-417c-81f4-f77bafb2481c\",\r\n  \"name\": \"Calça\",\r\n  \"description\": \"Calça Masculina\",\r\n  \"price\": 190.99,\r\n  \"category\": {\r\n    \"id\": \"86cd1fbd-e728-49cc-beeb-7b9ce8b6e30b\",\r\n    \"name\": \"string\"\r\n  }\r\n}'"
 					},
 					"response": []
+				},
+				{
+					"name": "GetProductById",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:7190/api/Products/GetProductById/0ef1c9c4-b38e-4039-bb32-7ea10241dcd0",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Products",
+								"GetProductById",
+								"0ef1c9c4-b38e-4039-bb32-7ea10241dcd0"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7190/api/Products/GetProductById/0ef1c9c4-b38e-4039-bb32-7ea10241dcd0' \\\r\n  -H 'accept: */*'"
+					},
+					"response": []
 				}
 			]
 		}

@@ -87,7 +87,7 @@ namespace SimpleProductCatalog.Application.Services
 
         public async Task<ProductDTO> GetProductById(string id)
         {
-            var product = await _productRepository.GetByIdAsync(id);
+            var product = await _productRepository.GetByIdWithCategoryAsync(id);
             var productDTO = _mapper.Map<ProductDTO>(product);
             return productDTO;
         }
