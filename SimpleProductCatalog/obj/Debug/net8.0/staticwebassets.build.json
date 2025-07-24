@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jN07c3zTwwupca5mSbw5WKaHXHUJc6r/nqrAZJv1nM4=",
+  "Source": "SimpleProductCatalog.API",
+  "BasePath": "_content/SimpleProductCatalog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

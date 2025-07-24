@@ -1,0 +1,6 @@
+@SimpleProductCatalog_HostAddress = http://localhost:5140
+
+GET {{SimpleProductCatalog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

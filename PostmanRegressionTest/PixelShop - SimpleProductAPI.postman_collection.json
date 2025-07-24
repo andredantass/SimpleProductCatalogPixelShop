@@ -1,0 +1,347 @@
+{
+	"info": {
+		"_postman_id": "3852dde7-02b6-49e5-b784-46453f48ebe1",
+		"name": "PixelShop - SimpleProductAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13266293"
+	},
+	"item": [
+		{
+			"name": "Category",
+			"item": [
+				{
+					"name": "CreateCategory",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"utilFunctions = {\r",
+									"    SetCategoryId: function(){\r",
+									"        console.log(\"Response valor\");\r",
+									"        var jsonData = pm.response.text(); // Changed to text() to handle plain text response\r",
+									"        console.log(jsonData);\r",
+									"        pm.collectionVariables.set(\"categoryid\", jsonData); // Updated to use jsonData directly\r",
+									"\r",
+									"    }\r",
+									"}\r",
+									"\r",
+									"utilFunctions.SetCategoryId();\r",
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": \"string\",\r\n  \"name\": \"Feminino\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7190/api/Categories/CreateCategory",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Categories",
+								"CreateCategory"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7190/api/Categories/CreateCategory' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"id\": \"string\",\r\n  \"name\": \"Feminino\"\r\n}'"
+					},
+					"response": []
+				},
+				{
+					"name": "GetAllCategories",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:7190/api/Categories/GetAllCategories",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Categories",
+								"GetAllCategories"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7190/api/Categories/GetAllCategories' \\\r\n  -H 'accept: */*'"
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteCategory",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:7190/api/Categories/DeleteCategory/{{categoryid}}",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Categories",
+								"DeleteCategory",
+								"{{categoryid}}"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'DELETE' \\\r\n  'https://localhost:7190/api/Categories/DeleteCategory/bce6bc28-a8a2-44e5-9aaf-6d8ede384dfd' \\\r\n  -H 'accept: */*'"
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateCategory",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": {{categoryid}},\r\n  \"name\": \"Masculino\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7190/api/Categories/UpdateCategory",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Categories",
+								"UpdateCategory"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:7190/api/Categories/UpdateCategory' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"id\": \"4ca7c41e-6197-456e-b014-020fbaddd211\",\r\n  \"name\": \"Masculino\"\r\n}'"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Product",
+			"item": [
+				{
+					"name": "CreateProduct",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\",\r\n  \"name\": \"Camiseta\",\r\n  \"description\": \"Camiseta Feminina\",\r\n  \"price\": 30.50,\r\n  \"category\": {\r\n    \"id\": \"137db616-be42-481d-942e-ceffed1e7b91\",\r\n    \"name\": \"string\"\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7190/api/Products/CreateProduct",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Products",
+								"CreateProduct"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'POST' \\\r\n  'https://localhost:7190/api/Products/CreateProduct' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"id\": \"3fa85f64-5717-4562-b3fc-2c963f66afa6\",\r\n  \"name\": \"Camiseta\",\r\n  \"description\": \"Camiseta Feminina\",\r\n  \"price\": 30.50,\r\n  \"category\": {\r\n    \"id\": \"137db616-be42-481d-942e-ceffed1e7b91\",\r\n    \"name\": \"string\"\r\n  }\r\n}'"
+					},
+					"response": []
+				},
+				{
+					"name": "GetAllProducts",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:7190/api/Products/GetAllProducts",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Products",
+								"GetAllProducts"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'GET' \\\r\n  'https://localhost:7190/api/Products/GetAllProducts' \\\r\n  -H 'accept: */*'"
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteProduct",
+					"request": {
+						"method": "DELETE",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							}
+						],
+						"url": {
+							"raw": "https://localhost:7190/api/Products/DeleteProduct/{{productid}}",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Products",
+								"DeleteProduct",
+								"{{productid}}"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'DELETE' \\\r\n  'https://localhost:7190/api/Products/DeleteProduct/6bcffdad-3b17-469c-8fc6-5523649e4f1c' \\\r\n  -H 'accept: */*'"
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateProduct",
+					"request": {
+						"method": "PUT",
+						"header": [
+							{
+								"key": "accept",
+								"value": "*/*"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"id\": \"{{productid}}\",\r\n  \"name\": \"Calça\",\r\n  \"description\": \"Calça Masculina\",\r\n  \"price\": 190.99,\r\n  \"category\": {\r\n    \"id\": \"{{categoryid}}\",\r\n    \"name\": \"string\"\r\n  }\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:7190/api/Products/UpdateProduct",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "7190",
+							"path": [
+								"api",
+								"Products",
+								"UpdateProduct"
+							]
+						},
+						"description": "Generated from cURL: curl -X 'PUT' \\\r\n  'https://localhost:7190/api/Products/UpdateProduct' \\\r\n  -H 'accept: */*' \\\r\n  -H 'Content-Type: application/json' \\\r\n  -d '{\r\n  \"id\": \"202f5ec4-af6d-417c-81f4-f77bafb2481c\",\r\n  \"name\": \"Calça\",\r\n  \"description\": \"Calça Masculina\",\r\n  \"price\": 190.99,\r\n  \"category\": {\r\n    \"id\": \"86cd1fbd-e728-49cc-beeb-7b9ce8b6e30b\",\r\n    \"name\": \"string\"\r\n  }\r\n}'"
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "categoryid",
+			"value": "",
+			"type": "string"
+		},
+		{
+			"key": "productid",
+			"value": "",
+			"type": "string"
+		}
+	]
+}

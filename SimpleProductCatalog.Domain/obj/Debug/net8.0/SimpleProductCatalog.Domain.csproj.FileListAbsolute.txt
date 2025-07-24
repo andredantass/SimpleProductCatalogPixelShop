@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\bin\Debug\net8.0\SimpleProductCatalog.Domain.deps.json
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\bin\Debug\net8.0\SimpleProductCatalog.Domain.dll
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\bin\Debug\net8.0\SimpleProductCatalog.Domain.pdb
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.AssemblyInfo.cs
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.dll
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\refint\SimpleProductCatalog.Domain.dll
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.pdb
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\ref\SimpleProductCatalog.Domain.dll
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.dll
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\bin\Debug\net8.0\SimpleProductCatalog.Abstraction.pdb
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimpleProductCatalog.Domain.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\SimpleProductCatalog\SimpleProductCatalog.Domain\obj\Debug\net8.0\SimplePr.B1BC3DE6.Up2Date
