@@ -80,7 +80,7 @@ namespace SimpleProductCatalog.Application.Services
 
         public async Task<List<ProductDTO>> GetAllProduct()
         {
-            var products = await _productRepository.GetAllAsync();
+            var products = await _productRepository.GetAllWithCategoryAsync() ;
             var productsDTO = _mapper.Map<List<ProductDTO>>(products);
             return productsDTO;
         }

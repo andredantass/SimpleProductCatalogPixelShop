@@ -24,7 +24,8 @@ rápido e dinâmico.
 Executando Projeto para teste
 ______________________________________________________________
 
-1 - Executar a Aplicacao no Visual Studio irá abrir o Swagger (documentação API)
+1 - Executar a Aplicacao no Visual Studio irá abrir o Swagger (documentação API), caso nao abra
+acesse no browser esse caminho : https://localhost:7190/swagger/index.html
 
 2 - Assim que for importado o RegressionTest do Postman, por favor Rodar os Requests do Postman na seguinte ordem:
 

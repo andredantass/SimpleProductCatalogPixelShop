@@ -15,6 +15,15 @@ namespace SimpleProductCatalog.Infra.Data.Repository
     {
         public ProductRepository(SimpleProductCatalogDBContext context) : base(context)
         {
+
+
+        }
+        public  async Task<IEnumerable<Product>> GetAllWithCategoryAsync()
+        {
+            return await DbSet
+                .Include(p => p.Category)
+                .AsNoTracking()
+                .ToListAsync();
         }
     }
 }

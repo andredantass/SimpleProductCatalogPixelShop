@@ -12,6 +12,6 @@ namespace SimpleProductCatalog.Abstraction.DTO
         public string? Name { get; set; }
         public string? Description { get; set; }
         public decimal Price { get; set; }
-        public CategoryDTO? Category { get; set; }
+        public CategoryDTO? Category { get; set; } = new CategoryDTO();
     }
 }
